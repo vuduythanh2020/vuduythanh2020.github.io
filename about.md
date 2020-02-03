@@ -1,15 +1,11 @@
 ---
 layout: page
-title: About
+title: Tạ Tốn
 permalink: /about/
 ---
-
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Nếu bạn không có gì trong tay, bạn sẽ đi tìm kiếm những điều lớn lao.
+Nhưng nếu trong tay bạn là một cái búa, bạn sẽ coi mọi thứ còn lại là cái đinh...
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[vuduythanh2020@gmail.com](mailto:vuduythanh2020@gmail.com)
