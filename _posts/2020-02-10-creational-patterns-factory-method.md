@@ -3,7 +3,7 @@ layout: post
 title: Creational Patterns - Factory Method
 ---
 
-Factory Method cung cấp một interface để khởi tạo các đối tượng từ một lớp cha. Những đối tượng này sẽ được tuỳ chỉnh lại ở các lớp con.
+Factory Method cung cấp một phương thức để khởi tạo các đối tượng từ một lớp cha. Những đối tượng này sẽ được tuỳ chỉnh lại ở các lớp con.
 
 Bài toán
 -------------

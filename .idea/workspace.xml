@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90de71ce-67c7-44c2-ba15-db69439501cf" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/_posts/2020-02-25-creational-patterns-abstract-factory.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-02-10-creational-patterns-factory-method.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-02-10-creational-patterns-factory-method.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +67,9 @@
       <workItem from="1580872610703" duration="430000" />
       <workItem from="1580958591861" duration="760000" />
       <workItem from="1581310528870" duration="3390000" />
-      <workItem from="1581913563981" duration="2886000" />
+      <workItem from="1581913563981" duration="4510000" />
+      <workItem from="1582618628063" duration="735000" />
+      <workItem from="1582687489750" duration="301000" />
     </task>
     <servers />
   </component>
